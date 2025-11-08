@@ -1,1 +1,4 @@
 # emotion_detection_app
+This project focuses on developing a real-time emotion detection system using facial recognition technology. With the growing importance of Artificial Intelligence (AI) in daily human-computer interactions, understanding and interpreting emotions accurately has become a significant challenge. This work proposes a model combining Deep Learning and Computer Vision techniques to identify emotions such as happiness, sadness, anger, surprise, fear, disgust, and neutrality from facial expressions in real...
+
+The system utilizes a pre-trained Mini-Xception Convolutional Neural Network (CNN) trained on the FER-2013 dataset, leveraging OpenCV for face detection and Streamlit for an interactive interface. The experimental results indicate a high accuracy rate with real-time processing capabilities, showcasing applications in education, healthcare, and customer experience domains.
